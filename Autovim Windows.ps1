@@ -1,4 +1,4 @@
-echo "Autovim 1.0 Windows"
+echo "Welcome to Autovim Windows"
 winget install Neovim.Neovim
 md ~\AppData\Local\nvim\autoload
 $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
@@ -8,6 +8,6 @@ $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
     "~\AppData\Local\nvim\autoload\plug.vim"
   )
 )
-wget https://raw.githubusercontent.com/JoseJuniorTK/MultiVimConfig/main/Windows/init.vim -OutFile ~\AppData\Local\init.vim
+wget https://raw.githubusercontent.com/JoseJuniorTK/MultiVimConfig/main/Windows/init.vim -OutFile ~\AppData\Local\nvim\init.vim
 winget install Git.Git
-echo "Feche e abra sua PowerShell / Close and open your PowerShell"
+echo "Close and open your PowerShell."
