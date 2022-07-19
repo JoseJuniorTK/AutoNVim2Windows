@@ -1,2 +1,2 @@
 # AutoVim2IDE
-Automatic installation and configuration scripts for VIM in every operational system.
+Automatic installation and configuration script for VIM to Windows PowerShell.
