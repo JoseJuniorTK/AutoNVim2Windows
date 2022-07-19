@@ -38,8 +38,6 @@ Plug 'sheerun/vim-polyglot'
 Plug 'yggdroot/indentline'
 Plug 'bronson/vim-trailing-whitespace'
 Plug 'vim-scripts/c.vim'
-Plug 'nanotech/jellybeans.vim'
-Plug 'morhetz/gruvbox'
 Plug 'reewr/vim-monokai-phoenix'
 Plug 'raimondi/delimitmate'
 Plug 'frazrepo/vim-rainbow'
@@ -70,8 +68,7 @@ endif
 
 " Theme
 syntax enable
-let g:gruvbox_contrast_dark = 'hard'
-colorscheme gruvbox
+colorscheme monokai-phoenix
 "Fim da configuração do Vundle Plugin
 "#####################################################################
 
