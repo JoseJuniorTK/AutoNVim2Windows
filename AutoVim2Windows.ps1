@@ -10,4 +10,5 @@ $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 )
 wget https://raw.githubusercontent.com/JoseJuniorTK/MultiVimConfig/main/Windows/init.vim -OutFile ~\AppData\Local\nvim\init.vim
 winget install Git.Git
+pip install neovim
 echo "Close and open your PowerShell."
