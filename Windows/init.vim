@@ -8,19 +8,8 @@ filetype off                  " required
 " set the runtime path to include Vundle and initialize
 call plug#begin('~/AppData/Local/nvim/plugged')
 
-"call vundle#rc()
-"set rtp+=~/.vim/bundle/Vundle.vim
-"call vundle#begin()
-
-" alternatively, pass a path where Vundle should install plugins
-"call vundle#begin('~/some/path/here')
-
-" let Vundle manage Vundle, required
-"Plugin 'VundleVim/Vundle.vim'
 Plug 'andviro/flake8-vim'
-"Plugin 'w0rp/ale', { 'do': 'pip install isort yapf' }
 Plug 'davidhalter/jedi-vim'
-"Plugin 'vim-syntastic/syntastic'
 Plug 'itchyny/calendar.vim'
 Plug 'vim-latex/vim-latex'
 Plug 'freitass/todo.txt-vim'
