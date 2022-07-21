@@ -1,5 +1,5 @@
-" Mandrakelinux configuration.
-" Rafael Garcia-Suarez <rgarciasuarez@mandrakesoft.com>
+" PowerShell adaptation and improvements - José M J L P <josemjuniortk@gmail.com>
+" Base config by - Rafael Garcia-Suarez <rgarciasuarez@mandrakesoft.com> 
 
 "Configuração do Vundle Plugin
 set nocompatible              " required
