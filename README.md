@@ -1,5 +1,5 @@
-# AutoVim2Windows.ps1
-Automatic installation and configuration script for VIM to Windows PowerShell.
+# AutoNVim2Windows.ps1
+Automatic installation and configuration script for NVim to Windows PowerShell.
 
 **Usage:** 
 
