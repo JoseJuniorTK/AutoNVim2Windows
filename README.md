@@ -1,4 +1,4 @@
-# AutoNVim2Windows.ps1
+# AutoNVim2Windows
 Automatic installation and configuration script for NVim to Windows PowerShell.
 
 **Usage:** 
